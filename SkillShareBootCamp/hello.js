@@ -8,5 +8,5 @@ function choice(t) {
 }
 
 for (var i = 0; i < 10; i++) {
-  console.log(choice(greetings) + ", " + + choice(places);
+  console.log(choice(greetings) + ", " + + choice(places));
 }

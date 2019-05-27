@@ -4,3 +4,4 @@ for (var x = 1, i = 0; i <=50; i ++) {
   console.log(x);
   x += x
 }
+//comment comment

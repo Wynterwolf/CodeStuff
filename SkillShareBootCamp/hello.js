@@ -1,0 +1,12 @@
+//jscript test
+
+var greetings = ["hello", "greetings", "hey there", "hi", "howdy"];
+var places = ["city", "country", "world", "solar system", "galaxy"];
+
+function (t) {
+  return t[Math.floor(Math.random()*t.length)];
+}
+
+for (var i = 0; i < 10; i++) {
+  console.log(choice(greetings) + ", " + + choice(placeS));
+}

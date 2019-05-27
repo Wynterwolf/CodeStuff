@@ -2,7 +2,7 @@
 
 for (var x = 1, i = 0; i <=50; i ++) {
 
-  // Rawr!
+  // Rawr!!
   console.log(x);
   x += x
 }

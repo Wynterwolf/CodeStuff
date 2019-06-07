@@ -18,4 +18,4 @@ let favoritePhrase = 'Love That!';
 // } else {
 //   console.log("I don't love that!");
 // }
-favoritePhrase ? console.log('I love that!') : console.log("I don't love that!");
+(favoritePhrase  === 'Love That!') ? console.log('I love that!') : console.log("I don't love that!");
